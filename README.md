@@ -1,5 +1,5 @@
 ### Hi there 🐼🐻
-- 🌌 I am interested in learning C++ and OpenFOAM.
+- 🌌 I am interested in learning C++ and OpenFOAM, as well as numerical methods for partial differential equations.
 - 🧊 I am currently working on my bachelor's in Aerospace Engineering, and finding more ways to get into computational fluid dynamics.
 - 🎍 My hobbies include theme park and strategy games, mathematics, and ultimately unconstructive political discussions.
 <!--
