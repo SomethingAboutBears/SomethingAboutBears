@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 🐼🐻
+- 🌌 I am interested in learning C++ and OpenFOAM.
+- 🧊 I am currently working on my bachelor's in Aerospace Engineering, and finding more ways to get into computational fluid dynamics.
+- 🎍 My hobbies include theme park and strategy games, mathematics, and ultimately unconstructive political discussions.
 <!--
 **SomethingAboutBears/SomethingAboutBears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
