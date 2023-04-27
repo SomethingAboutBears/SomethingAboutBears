@@ -1,6 +1,6 @@
 ### 🐻🐼 Hi there, I'm SomethingAboutBears! 🐼🐻
 - 🌌 I am interested in learning C++ and OpenFOAM, as well as numerical methods for partial differential equations.
-- 🧊 I am currently working on my bachelor's in Aerospace Engineering, and finding more ways to get into computational fluid dynamics.
+- 🧊 I am currently working on my bachelor's in Aerospace Engineering, completing my math minor, and finding more ways to get into computational fluid dynamics.
 - 🎍 My hobbies include theme park and strategy games, mathematics, and ultimately unconstructive political discussions.
 <!--
 **SomethingAboutBears/SomethingAboutBears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
